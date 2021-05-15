@@ -38,6 +38,8 @@ At the end of our analysis we will be able to provide insights on the following 
 22. Create a DataFrame for the Scores by School Size and School Type
 23. Create a DataFrame for the Scores by School Type
 
+## Results
+
 
 
 
