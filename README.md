@@ -62,13 +62,11 @@ District Summary excluding 9th Grade Thomas High School
 
 Top Performing Schools including 9th Grade Thomas High School
 ![Top_Performing_Schools_with_9th_Grade_THS](https://user-images.githubusercontent.com/67847583/118379364-76a6c300-b59f-11eb-9365-53f748bf130c.png)
-
 Top Performing Schools excluding 9th Grade Thomas High School
 ![Top_Performing_Schools_without_9th_Grade_THS](https://user-images.githubusercontent.com/67847583/118379368-7c9ca400-b59f-11eb-8cb7-8b5f0a3aed41.png)
 
 Bottom Performing Schools including 9th Grade Thomas High School
 ![Bottom_Performing_Schools_with_9th_Grade_THS](https://user-images.githubusercontent.com/67847583/118379374-86bea280-b59f-11eb-98ba-dd3ccb955749.png)
-
 Bottom Performing Schools excluding 9th Grade Thomas High School
 ![Bottom_Performing_Schools_without_9th_Grade_THS](https://user-images.githubusercontent.com/67847583/118379379-8d4d1a00-b59f-11eb-9941-8e923ade8fdf.png)
 
