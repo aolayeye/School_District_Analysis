@@ -41,6 +41,15 @@ How does replacing the ninth-grade scores affect the following:
 
 ## Results
 
+By replacing 9th grade math and reading scores for Thomas High School with NaN, the results of our analysis changed the following:
+  - District Summary: % Passing Math, % Passing Reading, and % Overall Passing changed by less than 0.2%; dropping from 75.0%, 86.0%, and 65.2% to 74.8%, 85.7%, and 64.9% respectively. While Average Math Score dropped by 0.1% from 79.0% to 78.9%, Average Reading remained unchanged at 81.9%.
 
 
+![District_Summary_with_9th_Grade_THS](https://user-images.githubusercontent.com/67847583/118376381-435b3880-b58d-11eb-97fb-79bd3447b21c.png)
+![District_Summary_without_9th_Grade_THS](https://user-images.githubusercontent.com/67847583/118376389-46eebf80-b58d-11eb-8bb7-534871077132.png)
+
+  - School Summary: % Passing Math, % Passing Reading, and % Overall Passing changed by more than 25.0%; dropping from 93.3%, 97.3%, and 90.9% to 66.9%, 69.7% and 65.1% respectively. Average Math Score and Average Reading Score remained largely unchanged.
+
+![School_Summary_with_9th_Grade_THS](https://user-images.githubusercontent.com/67847583/118376717-5838cb80-b58f-11eb-9186-75b75c3047f1.png)
+![School_Summary_without_9th_Grade_THS](https://user-images.githubusercontent.com/67847583/118376719-5b33bc00-b58f-11eb-81ab-1408307a0b3f.png)
 
