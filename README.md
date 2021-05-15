@@ -74,12 +74,12 @@ Bottom Performing Schools excluding 9th Grade Thomas High School
 
   - Math and Reading Scores by Grade: By replacing 9th grade math and reading scores for Thomas High School, the 9th grade math and reading display NaN. All other entries for the other schools display the same scores before and after replacing 9th grade Thomas High School scores with NaN.
 
-Math and Reading Scores including 9th Grade Thomas High School
+Math and Reading Scores by Grade including 9th Grade Thomas High School
 
 ![Math_scores_by_grade_with_9th_grade_THS](https://user-images.githubusercontent.com/67847583/118379610-321c2700-b5a1-11eb-881b-525a88604d2d.png)
 ![reading_scores_by_grade_with_9th_grade_THS](https://user-images.githubusercontent.com/67847583/118379616-39dbcb80-b5a1-11eb-99da-85b4c58a8669.png)
 
-Math and Reading Scores excluding 9th Grade Thomas High School
+Math and Reading Scores by Grade excluding 9th Grade Thomas High School
 
 ![Math_scores_by_grade_without_9th_grade_THS](https://user-images.githubusercontent.com/67847583/118379639-5972f400-b5a1-11eb-9f22-09782623703a.png)
 ![reading_scores_by_grade_without_9th_grade_THS](https://user-images.githubusercontent.com/67847583/118379642-5bd54e00-b5a1-11eb-85c6-0ba841018946.png)
