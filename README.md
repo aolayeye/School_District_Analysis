@@ -110,3 +110,9 @@ Scores by School Type excluding 9th Grade Thomas High School
 ![Scores_by_School_Type_without_9th_Grade_THS](https://user-images.githubusercontent.com/67847583/118381468-cd68c880-b5b0-11eb-9450-9e83a3202190.png)
 
 
+## Summary
+Replacing Thomas High School's Math and Reading scores resulted in changes in four of the seven metrics we measured for our School District Analysis.
+1. Disrict Summary
+2. School Summary
+3. Top and Bottom Performing Schools
+4. Math and Reading Scores by Grade
