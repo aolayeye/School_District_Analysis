@@ -112,7 +112,10 @@ Scores by School Type excluding 9th Grade Thomas High School
 
 ## Summary
 Replacing Thomas High School's Math and Reading scores resulted in changes in four of the seven metrics we measured for our School District Analysis.
-1. Disrict Summary
-2. School Summary
-3. Top and Bottom Performing Schools
-4. Math and Reading Scores by Grade
+1. Disrict Summary: % Passing Math, % Passing Reading, and % Overall Passing changed by less than 0.2%; dropping from 75.0%, 86.0%, and 65.2% to 74.8%, 85.7%, and 64.9% respectively. While Average Math Score dropped by 0.1% from 79.0% to 78.9%, Average Reading remained unchanged at 81.9%.
+2. School Summary: % Passing Math, % Passing Reading, and % Overall Passing changed by more than 25.0%; dropping from 93.3%, 97.3%, and 90.9% to 66.9%, 69.7% and 65.1% respectively. Average Math Score and Average Reading Score remained largely unchanged.
+3. Top and Bottom Performing Schools: While Thomas High School's % Passing Math, % Passing Reading, and % Overall Passing dropped by 0.09%, 0.29%, and 0.32% respectively, the school still retained its second position in the top performing schools list. This is due to the fact that we recomputed the math and scores for only grade 10 to grade 12 excluding the grade 9 entirely. The list of bottom performing schools remain unchanged.
+4. Math and Reading Scores by Grade: By replacing 9th grade math and reading scores for Thomas High School, the 9th grade math and reading display NaN. All other entries for the other schools display the same scores before and after replacing 9th grade Thomas High School scores with NaN.
+
+It is worth noting that by replacing with NaNs, our average calculations (Average Math Score and  Average Reading Score) ignored all records with NaN and focused only on numbers, as a result 
+without accounting for the students with NaNs, the School Summary saw % Passing Math, % Passing Reading, and % Overall Passing drop by more than 25.0% respectively. We hoevver noticed that when we recomputed % Passing Math, % Passing Reading, and % Overall Passing using data for grade 10 to grade 12, Thomas High School numbers went back to aprroximately initial levels.
