@@ -118,4 +118,5 @@ Replacing Thomas High School's Math and Reading scores resulted in changes in fo
 4. Math and Reading Scores by Grade: By replacing 9th grade math and reading scores for Thomas High School, the 9th grade math and reading display NaN. All other entries for the other schools display the same scores before and after replacing 9th grade Thomas High School scores with NaN.
 
 It is worth noting that by replacing with NaNs, panas mean() method (Average Math Score and  Average Reading Score) ignored all records with NaN and focused only on numbers, as a result our average calculations remained unchanged.
+
 Without accounting for the students with NaNs, the School Summary saw % Passing Math, % Passing Reading, and % Overall Passing drop by more than 25.0% respectively. We however noticed that when we recomputed % Passing Math, % Passing Reading, and % Overall Passing using data for grade 10 to grade 12, Thomas High School numbers went back to aprroximately initial levels.
