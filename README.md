@@ -52,10 +52,10 @@ District Summary excluding 9th Grade Thomas High School
 
   - School Summary: % Passing Math, % Passing Reading, and % Overall Passing changed by more than 25.0%; dropping from 93.3%, 97.3%, and 90.9% to 66.9%, 69.7% and 65.1% respectively. Average Math Score and Average Reading Score remained largely unchanged.
 
-District Summary including 9th Grade Thomas High School
+School Summary including 9th Grade Thomas High School
 ![School_Summary_with_9th_Grade_THS](https://user-images.githubusercontent.com/67847583/118376717-5838cb80-b58f-11eb-9186-75b75c3047f1.png)
 
-District Summary excluding 9th Grade Thomas High School
+School Summary excluding 9th Grade Thomas High School
 ![School_Summary_without_9th_Grade_THS](https://user-images.githubusercontent.com/67847583/118376719-5b33bc00-b58f-11eb-81ab-1408307a0b3f.png)
 
   - Top and Bottom Performing Schools: While Thomas High School's % Passing Math, % Passing Reading, and % Overall Passing dropped by 0.09%, 0.29%, and 0.32% respectively, the school still retained its second position in the top performing schools list. This is due to the fact that we recomputed the math and scores for only grade 10 to grade 12 excluding the grade 9 entirely. The list of bottom performing schools remain unchanged.
@@ -84,4 +84,19 @@ Math and Reading Scores by Grade excluding 9th Grade Thomas High School
 ![Math_scores_by_grade_without_9th_grade_THS](https://user-images.githubusercontent.com/67847583/118379639-5972f400-b5a1-11eb-9f22-09782623703a.png)
 ![reading_scores_by_grade_without_9th_grade_THS](https://user-images.githubusercontent.com/67847583/118379642-5bd54e00-b5a1-11eb-85c6-0ba841018946.png)
 
+  - Scores by School Spending: Since the recomputed Average Math Score and Average Reading Score, and % Passing Math, % Passing Reading, and % Overall Passing for Thomas High School were similar to results obtained originally, Scores by school spending remain unchanged across all metrics.
+
+Scores by School Spending including 9th Grade Thomas High School
+![Scores_by_School_Spending_with_9th_Grade_THS](https://user-images.githubusercontent.com/67847583/118381160-a957b800-b5ad-11eb-8336-e8f36fc537d9.png)
+
+Scores by School Spending including 9th Grade Thomas High School
+![Scores_by_School_Spending_without_9th_Grade_THS](https://user-images.githubusercontent.com/67847583/118381161-afe62f80-b5ad-11eb-938e-044792d6d63e.png)
+
+- Scores by School Sze: Since the recomputed Average Math Score and Average Reading Score, and % Passing Math, % Passing Reading, and % Overall Passing for Thomas High School were largely unchanged, Scores by school spending remain unchanged across all metrics.
+
+Scores by School Size including 9th Grade Thomas High School
+![Scores_by_School_Size_with_9th_Grade_THS](https://user-images.githubusercontent.com/67847583/118381405-33a11b80-b5b0-11eb-881a-d51b43abc08b.png)
+
+Scores by School Size excluding 9th Grade Thomas High School
+![Scores_by_School_Size_without_9th_Grade_THS](https://user-images.githubusercontent.com/67847583/118381409-37cd3900-b5b0-11eb-8dd0-3667c15b16b4.png)
 
